@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <iostream>
-using namespace std;
+using namespace std;//std::È—ª
+
 
 template <typename Type,typename Type2>
 
